@@ -29,8 +29,8 @@ Through simulation and visualization, this notebook aims to:
 ## ⚙️ Features
 
 ✅ **Simulate fundamental probability experiments**
-- Coin flips → \( P(\text{Heads}) \), \( P(\text{Tails}) \)
-- Two dice → \( P(\text{Sum}=7) \), histogram of sums  
+- Coin flips → \( P(\{Heads}) \), \( P(\{Tails}) \)
+- Two dice → \( P(\{Sum}=7) \), histogram of sums  
 
 ✅ **Estimate conditional and joint probabilities**
 - Compute \( P(A|B) \), \( P(A∩B) \), and test independence  
