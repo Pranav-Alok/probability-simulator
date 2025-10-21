@@ -146,8 +146,8 @@ jupyter notebook Probability_Simulator.ipynb
 ### Part of the “Mastering Statistics in Python” Series
 | Chapter | Project                                                                                          | Focus Area                                                   |
 | ------- | ------------------------------------------------------------------------------------------------| ------------------------------------------------------------  |
-| ✅ 1    | [Descriptive Statistics Analyzer](https://github.com/PranavAlok/descriptive-statistics-analyzer) | Summarizing and visualizing datasets                         |
-| 🔜 2    | **Probability Simulator**                                                                        | Simulating randomness & probability laws                     |
+| ✅ 1    | [Descriptive Statistics Analyzer](https://github.com/Pranav-Alok/descriptive-statistics-analyzer)| Summarizing and visualizing datasets                         |
+| ✅ 2    | [Probability Simulator](https://github.com/Pranav-Alok/probability-simulator)                    | Simulating randomness & probability laws                     |
 | 🔜 3    | Discrete Distributions Explorer                                                                  | Understanding Binomial, Poisson, and Geometric distributions |
 | 🔜 4    | Continuous Distributions Visualizer                                                              | Normal, Exponential, Gamma distributions                     |
 
